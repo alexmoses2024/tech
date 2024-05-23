@@ -1,0 +1,61 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Organization",
+  "url": "https://tech.us",
+  "logo": "https://tech.us/hubfs/raw_assets/public/project/images/techus-logos/techus-white-logo.png",
+  "name": "Tech us",
+  "email": "info@tech.us",
+  "description": " Enterprise software solutions built for scalability & security. Power your business growth. Get a demo today! ",
+  "address": {
+    "@type": "PostalAddress",
+    "postalCode": "5655",
+    "streetAddress": "Silver Creek Valley Rd #334",
+    "addressCountry": "United States",
+    "addressRegion": "California",
+    "addressLocality": "San Jose",
+    "telephone": "1-866-277-3383"
+  },
+  "telephone": "1-866-277-3383",
+  "brand": {
+    "@type": "Organization",
+    "name": ""
+  },
+  "sameAs": "",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "sales",
+    "telephone": "1-866-277-3383",
+    "contactOption": "Support"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "5"
+  },
+  "founder": {
+    "@type": "Person",
+    "name": "Praveen Naara",
+    "image": "https://tech.us/hs-fs/hubfs/Praveen@2x.png?width=666&height=642&name=Praveen@2x.png",
+    "url": "https://tech.us/hs-fs/hubfs/Praveen@2x.png?width=666&height=642&name=Praveen@2x.png",
+    "jobTitle": "CEO",
+    "gender": "Male"
+  },
+  "foundingDate": "2000-01-01T00:00:00.000Z",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "Tony Robbins"
+    },
+    "itemReviewed": {
+      "@type": "Organization",
+      "name": "Tony Robbins"
+    },
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+    },
+    "datePublished": "2020-01-01T00:00:00.000Z"
+}
+</script>
